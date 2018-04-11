@@ -1,10 +1,9 @@
 package com.in28minutes.springboot.jpa.spring.data.rest.example.student;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
+@Table(name="studenti")
 public class Student {
 	@Id
 	@GeneratedValue

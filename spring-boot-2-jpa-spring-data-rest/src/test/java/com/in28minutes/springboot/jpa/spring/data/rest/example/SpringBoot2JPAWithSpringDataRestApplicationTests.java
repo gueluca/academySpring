@@ -11,6 +11,7 @@ public class SpringBoot2JPAWithSpringDataRestApplicationTests {
 
 	@Test
 	public void contextLoads() {
+
 	}
 
 }
