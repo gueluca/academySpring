@@ -21,6 +21,6 @@ public class ControllerProfile {
     public List<Student> getProfiles() {
         return profili;
     }
-    
+
 
 }
