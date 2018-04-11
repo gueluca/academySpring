@@ -1,0 +1,11 @@
+.logo-image {
+    width: auto;
+    height: 25px;
+  }
+  .nav-item.nav-link {
+    font-weight: 700;
+  }
+
+  .bg-grey {
+    background-color: #c9cccb;
+  }
