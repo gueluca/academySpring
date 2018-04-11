@@ -14,7 +14,7 @@ public class SpringBoot2JPAWithSpringDataRestApplication {
 	private Logger logger = LoggerFactory.getLogger(this.getClass());
 
 	@Autowired
-	StudentDataRestRepository repository;
+	StudentDataRestRepository repository;b
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBoot2JPAWithSpringDataRestApplication.class, args);
