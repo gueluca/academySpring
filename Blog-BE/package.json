@@ -1,0 +1,26 @@
+{
+  "name": "blog-be",
+  "version": "0.0.1",
+  "description": "Man in the middle who serves json from a backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "blog",
+    "hybris"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^4.37.6",
+    "sqlite3": "^4.0.0"
+  }
+}
